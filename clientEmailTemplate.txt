@@ -1,0 +1,139 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width"/>
+    <style type="text/css">
+      .gp-wrapper table td {border-collapse: collapse;}
+      .gp-wrapper img {outline:none; text-decoration:none; -ms-interpolation-mode: bicubic;}
+      .gp-wrapper a img {border:none;}.gp-wrapper .header-links a, .gp-wrapper .header-links a:link, .gp-wrapper .header-links a:visited, .gp-wrapper .header-links a:active {color: #e10098 !important;}
+      .gp-wrapper .footer-links a, .gp-wrapper .footer-links a:link, .gp-wrapper .footer-links a:visited, .gp-wrapper .footer-links a:active {color: #e10098 !important;}
+      .gp-wrapper {-webkit-text-size-adjust:100%; -moz-text-size-adjust:100%; -ms-text-size-adjust:100%;}        
+      @media screen and (max-width: 599px){.gp-wrapper table[width="600"]{width: 100% !important;}}    
+    </style>
+  </head>
+  <body>
+    <div id="gp-top-of-page" class="gp-wrapper">      
+
+      <!-- Header links -->
+      %%=TreatAsContent(ContentArea(176731))=%%
+      <!-- End of header links -->
+
+      <!-- start main header -->
+      <table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#f2f2f2">
+        <tbody>
+          <tr>
+            <td colspan="3" height="13"></td>
+          </tr>
+          <tr>
+            <td width="49%">
+              <table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#f2f2f2">
+                <tbody>
+                  <tr>
+                    <td height="28"></td>
+                  </tr>
+                  <tr>
+                    <td height="3" bgcolor="#053041"><img src="http://image.mail.prospects.ac.uk/lib/fe8f13707567037b7c/m/1/single.gif" height="3" width="1" alt="" style="display: block;"/></td>
+                  </tr>
+                </tbody>
+              </table>
+            </td>
+            <td width="195" height="38"><a href="https://www.prospects.ac.uk?utm_source=%%emailname_%%&utm_medium=email_client&utm_campaign=header"><img src="http://image.mail.prospects.ac.uk/lib/fe8f13707567037b7c/m/9/ne-logo-inverse.gif" width="195" height="38" alt="Prospects" style="display:block;"/></a></td>
+            <td width="49%">
+              <table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#f2f2f2">
+                <tbody>
+                  <tr>
+                    <td height="28"></td>
+                  </tr>
+                  <tr>
+                    <td height="3" bgcolor="#053041"><img src="http://image.mail.prospects.ac.uk/lib/fe8f13707567037b7c/m/1/single.gif" height="3" width="1" alt="" style="display: block;"/></td>
+                  </tr>
+                </tbody>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="3" height="28"></td>
+          </tr>
+        </tbody>
+      </table>
+      <!-- end main header -->
+      <custom type="content" name="background-colour">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="%%=v(@backgroundColor)=%%">
+        <tbody>
+          <tr>
+            <td align="center">
+              <table cellpadding="0" cellspacing="0" border="0" align="center" width="600">
+                <tbody>
+                  <tr>
+                    <td height="32"></td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <!-- start main content -->
+                      <custom type="content" name="content01">
+		      <custom type="content" name="content02">
+  		      <custom type="content" name="content03">	
+		      <custom type="content" name="content04">	
+		      <custom type="content" name="content05">	
+  	  	      <custom type="content" name="content06">	
+		      <custom type="content" name="content07">	
+		      <custom type="content" name="content08">	
+		      <custom type="content" name="content09">	
+		      <custom type="content" name="content10">	
+		      <custom type="content" name="content11">
+		      <custom type="content" name="content12">
+		      <custom type="content" name="content13">	
+  		      <custom type="content" name="content14">	
+		      <custom type="content" name="content15">	
+		      <custom type="content" name="content16">	
+		      <custom type="content" name="content17">	
+		      <custom type="content" name="content18">	
+		      <custom type="content" name="content19">	
+  		      <custom type="content" name="content20">
+		      <custom type="content" name="content21">
+		      <custom type="content" name="content22">
+		      <custom type="content" name="content23">	
+		      <custom type="content" name="content24">	
+		      <custom type="content" name="content25">	
+		      <custom type="content" name="content26">	
+		      <custom type="content" name="content27">	
+		      <custom type="content" name="content28">	
+		      <custom type="content" name="content29">	
+		      <custom type="content" name="content30">		
+                      <!-- end main content -->
+                    </td>
+                  </tr>
+                  <tr>
+                    <td height="32"></td>
+                  </tr>
+                </tbody>
+              </table>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#f2f2f2">
+        <tbody>
+          <tr>
+            <td height="32"></td>
+          </tr>
+          <tr>
+            <td height="3" bgcolor="#053041"></td>
+          </tr>
+          <tr>
+            <td align="center">
+
+              <!-- Footer links -->
+              %%=TreatAsContent(ContentArea(176730))=%%
+              <!-- End of footer links -->
+
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <img src="https://pixel.app.returnpath.net/pixel.gif?r=f9a1a7f60b08bcbb42b4f2b1a73032a1218a4638&c=%%emailname_%%&source=client_email" width="1" height="1" />
+    <custom name="opencounter" type="tracking">
+  </body>
+</html>
