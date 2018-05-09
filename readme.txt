@@ -1,0 +1,1 @@
+This repository is for development work on responsive content blocks in ExactTarget
